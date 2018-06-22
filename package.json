@@ -1,0 +1,31 @@
+{
+  "name": "angular.extend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "typings": "./src/index.d.ts",
+  "scripts": {
+    "build": "tsc" 
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.14",
+	"@angular/common": "6.0.0",
+	"@angular/compiler": "6.0.0",
+	"@angular/core": "6.0.0",
+	"@angular/platform-browser": "6.0.0",
+	"@angular/platform-browser-dynamic": "6.0.0",
+	"core-js": "2.5.5",
+	"rxjs": "6.1.0",
+	"systemjs": "0.21.3",
+	"zone.js": "0.8.26"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(git@github.com:kleevs/angular.extend.git)"
+  },
+  "keywords": [
+    "angular extend"
+  ],
+  "author": "kleevs",
+  "license": "MIT"
+}
